@@ -1,0 +1,1269 @@
+@media (max-width:1212px) {
+
+    /* this is  header */
+
+    .list ul li {
+        display: inline;
+        padding: 0px 12px 0px 0px;
+    }
+
+    .list ul li a {
+        color: #fff;
+        font-size: 13px;
+    }
+
+
+    .cake img {
+        width: 99%;
+        filter: drop-shadow(-33px 69px 22px rgba(0, 0, 0, 0.534));
+        padding-top: 55px;
+        padding-bottom: 76px;
+    }
+
+
+    .text h1 {
+        font-size: 37.4px;
+        font-weight: 100;
+    }
+
+    .text p {
+        font-size: 38.52px;
+        font-weight: bolder;
+        padding-bottom: 60px;
+    }
+
+    .text button.cureses {
+        background-color: rgb(63, 34, 21);
+        border-radius: 21px;
+        padding: 10px 41px;
+        border: none;
+        color: #f1e8e3;
+        font-size: 26.27px;
+        font-family: 'Minion Variable';
+    }
+
+    .text {
+        padding-top: 13%;
+        padding-bottom: 232px;
+    }
+
+
+
+    /* |||
+    ||||||||| */
+
+    .suger h1 {
+        font-size: 60.31px;
+        font-weight: 100;
+        padding-top: 19px;
+    }
+
+
+    /* ||||| */
+
+
+
+    .smoothie {
+        width: 35vw;
+        background-color: #fff;
+        padding: 33px 92px 65px;
+    }
+
+    .smoothie-image {
+        height: 53vw;
+        width: 37vh;
+    }
+
+
+
+    .smoothie h1 {
+        font-size: 33.26px;
+    }
+
+
+    .smoothie h2 {
+        font-size: 21.02px;
+    }
+
+    #buy {
+        font-size: 15.55px;
+    }
+
+    /* ||||||||||||||||||\\\\\ */
+    .stars {
+        position: relative;
+        bottom: 49vw;
+    }
+}
+
+
+
+
+@media (max-width:993px) {
+    .list ul li {
+        display: inline;
+        padding: 0px 10px 0px 0px;
+    }
+
+    .list ul li a {
+        color: #fff;
+        font-size: 11.58px;
+    }
+
+    /* ||||||||||||||||||\\\\\ */
+    .stars {
+        position: relative;
+        bottom: 69vw;
+    }
+}
+
+@media (max-width:1000px) {
+
+
+
+    .right {
+        width: 43%;
+    }
+
+    .midd-box .left {
+        padding: 70px 40px 77px;
+        font-family: 'Minion Variable Concept';
+    }
+
+
+    /* |||||||||||||\ */
+
+    .smoothie {
+        width: 32vw;
+        background-color: #fff;
+        padding: 12px 92px 33px;
+    }
+
+    /* ||||||||||||||||||\\\\\ */
+    .stars {
+        position: relative;
+        bottom: 69vw;
+    }
+
+}
+
+@media (max-width:900px) {
+
+    .toogler {
+        padding: 0px 0px 15px 100px;
+        width: 78%;
+        position: absolute;
+        top: 165px;
+    }
+
+    .burger-icon {
+        display: contents;
+    }
+
+    .list ul li {
+        display: none;
+    }
+
+
+
+    .right {
+        background-image: url(../Images/ICE_CREEM.png);
+        background-size: cover;
+        background-repeat: no-repeat;
+        width: 43%;
+        border-radius: 0px 110px 110px 0px;
+    }
+
+    /* |||||||||||||||||\ */
+
+    .suger h2 {
+        font-size: 36.99px;
+        font-weight: bolder;
+        padding-bottom: 25px;
+    }
+
+
+    /* ????????????//// */
+
+    /* ||| */
+
+    .midd-box {
+
+        display: flex;
+        flex-direction: column-reverse;
+        background-color: #ffefe6;
+        box-shadow: none;
+
+
+
+    }
+
+    .midd-box .left {
+        padding: 70px 145px 77px 116px;
+        font-family: 'Minion Variable Concept';
+        background-color: rgb(255, 255, 255);
+        border-radius: 110px;
+        box-shadow: -44px -5px 93px -57px black;
+        width: 100%;
+    }
+
+    .midd-box .left h1 {
+        font-size: 40px;
+
+    }
+
+    .midd-box .left h2 {
+        font-size: 30px;
+
+    }
+
+    .midd-box .left p {
+
+        font-size: 20px;
+    }
+
+    .midd-box .left h3 {
+        font-size: 27px;
+    }
+
+    .midd-box .left ul li {
+        font-size: 17px;
+
+    }
+
+    #buy {
+
+        font-size: 20px;
+    }
+
+    .midd-box .left p {
+
+        font-size: 13px;
+    }
+
+
+    .right {
+        width: 50vw;
+        height: 75vw;
+        border-radius: 110px;
+        padding-bottom: 49px;
+        margin: 0 auto 13px;
+    }
+
+
+
+    /* |||||||||||| */
+
+
+
+
+    .midd-box-2 {
+        display: flex;
+        flex-direction: column;
+        width: 80%;
+        box-shadow: none;
+        background-color: #ffefe6;
+    }
+
+
+    .midd-box-2 .right-3 {
+        padding: 83px 98px 0px 32px;
+        width: 100%;
+        color: #fff;
+        background-color: #3f2215;
+        border-radius: 110px;
+        box-shadow: 2px 4px 10px black;
+    }
+
+    .left-3 {
+        width: 49vw;
+        height: 92vh;
+        background-color: #ffefe6;
+        border: none;
+        border-radius: 113px;
+        margin: 0 auto;
+    }
+
+    .learn {
+        display: flex;
+        flex-direction: column-reverse;
+        background-color: #ffefe6;
+        box-shadow: none;
+
+    }
+
+    .about {
+        background-color: #fff;
+        border-radius: 110px;
+        box-shadow: -44px 10px 93px -57px black;
+    }
+
+    .boy {
+        width: 49vw;
+        height: 86vh;
+        border: none;
+        border-radius: 110px;
+        margin: 0 auto;
+    }
+
+    /* |||||||||||||||||||||||||\\ */
+
+    .Favorite-seasonal {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .smoothie-image {
+        display: none;
+    }
+
+
+    .smoothie {
+        width: 69%;
+        padding: 60px 113px 45px;
+        border: none;
+        border-radius: 0px 110px 110px 0px;
+        /* margin: 0 auto; */
+        box-shadow: inset 0px -3px 34px #80808085, 0px 0px 19px;
+    }
+
+    .smoothie h1 {
+        font-size: 47.26px;
+    }
+
+    .smoothie h2 {
+        font-size: 32.02px;
+    }
+
+    .smoothie p {
+        font-size: 17px;
+        width: 40vw;
+        padding-bottom: 18px;
+        font-family: 'gill-sans';
+    }
+
+    .smoothie ul li {
+        font-size: 18.67px;
+        font-weight: bold;
+        text-transform: capitalize;
+    }
+
+    .smoothie p {
+        font-size: 11px;
+        width: 29vw;
+        padding-bottom: 18px;
+        font-family: 'gill-sans';
+    }
+
+    .all-tastes {
+        padding-left: 28px;
+        padding-top: 59px;
+    }
+
+    .pactery {
+        display: flex;
+        justify-content: flex-start;
+    }
+
+    .cup-cake {
+        display: flex;
+        justify-content: flex-start;
+    }
+
+    /* |||||||||||||||||\\ */
+
+    .stars {
+        position: relative;
+        bottom: 69vw;
+    }
+
+    /* |||||||||||||||||\\ */
+    footer {
+        background-color: #451d0b;
+        width: 90%;
+    }
+
+    .flex-box {
+        display: flex;
+        justify-content: space-around;
+        padding-top: 83px;
+        padding-bottom: 104px;
+        line-height: 47px;
+    }
+
+
+    .Thirdmenu {
+        padding-top: 40px;
+        padding-left: 94px;
+    }
+
+
+    .left-1 {
+        width: 60%;
+        display: none;
+    }
+
+    .juice {
+        display: flex;
+        justify-content: space-around;
+        text-align: center;
+    }
+
+
+
+}
+
+
+/* @media (
+    max-width:912px
+) {
+    .smoothie {
+        width: 30vw;
+        background-color: #fff;
+        padding: 12px 55px 33px;
+    }
+
+
+    .smoothie-image {
+        height: 61vw;
+        width: 54vh;
+    }
+
+    .all-tastes {
+        padding-left: 60px;
+    }
+} */
+
+
+@media (max-width: 820px) {
+    #web-logo h1 {
+        font-size: 85.39px;
+
+    }
+
+    .toogler {
+        padding: 0px 0px 15px 100px;
+        width: 78%;
+        position: absolute;
+        top: 136px;
+    }
+
+    /* |||||||||||||||||||||||\\ */
+    .Chocotale-and-Cocoa h1 {
+        font-size: 127.95px;
+        color: #3f2215;
+        font-family: 'Bellamye';
+        padding-bottom: 14px;
+        text-shadow: -1px -6px 0px #3f22156e;
+        font-weight: 500;
+    }
+
+    button.sighn-up {
+        padding: 18px 112px;
+        background: #3a3a3ac7;
+        color: #fff;
+        font-size: 34.42px;
+        font-family: 'Minion Variable Concept';
+        border-radius: 52px;
+        border: none;
+    }
+
+    .Chocotale-and-Cocoa p {
+        width: 60vw;
+        padding-top: 47px;
+        margin: 0 auto;
+        font-family: 'gill-sans';
+        font-size: 17px;
+    }
+
+    .Chocotale-and-Cocoa h2 {
+        font-size: 51.26px;
+        padding-bottom: 31px;
+    }
+
+    .stars {
+        position: relative;
+        bottom: 73vw;
+    }
+
+    .stars img {
+        width: 100%;
+    }
+
+    /* |||||||||||||||||||||\\ */
+
+    footer {
+        background-color: #451d0b;
+        width: 95%;
+    }
+
+    .social-midea-icons {
+        width: 110%;
+    }
+
+    .firsmenu-1 {
+        padding: 0px 0px 0px 52px;
+    }
+
+    .Thirdmenu h1 {
+        padding-bottom: 25px;
+        font-size: 29px;
+    }
+
+    .Thirdmenu input {
+        background-color: rgb(255, 255, 255);
+        padding: 13px 137px 13px 20px;
+    }
+
+    .Thirdmenu .sighn-up {
+        font-size: 22px;
+    }
+
+    .Thirdmenu .sighn-up {
+        padding: 5px 107px;
+        background-color: #b68e76;
+        font-size: 23px;
+    }
+
+
+
+
+}
+
+
+@media (max-width:768px) {
+    .cake {
+        text-align: left;
+        display: flex;
+        justify-content: space-around;
+        background-image: linear-gradient(to right, #f2871e, #ef9a39);
+        flex-direction: column;
+        text-align: center;
+    }
+
+    .cofee {
+        width: 95%;
+        margin: 0 auto;
+    }
+
+    /* |||||||||||||||||\\ */
+
+    .suger h1 {
+        font-size: 48.31px;
+
+    }
+
+    .suger h2 {
+        font-size: 26.99px;
+
+    }
+
+    .suger p {
+        font-size: 22.95px;
+
+    }
+
+    .suger .btn-1 {
+        padding: 10px 49px;
+        font-size: 13.42px;
+
+
+    }
+
+
+    /*  ||||||||||*/
+
+    .right {
+        width: 76vw;
+        height: 114vw;
+        border-radius: 110px;
+        padding-bottom: 49px;
+        margin: 0 auto 13px;
+    }
+
+
+
+    .left-3 {
+        width: 59vw;
+        height: 93vh;
+        background-color: #ffefe6;
+        border: none;
+        border-radius: 113px;
+        box-shadow: 2px 4px 10px black;
+        margin: 0 auto;
+    }
+
+
+    .boy {
+        width: 69vw;
+        height: 138vh;
+        border: none;
+        border-radius: 110px;
+        margin: 0 auto;
+    }
+
+    /* |||||||||||||||||\\\ */
+
+    .smoothie-image {
+        height: 75vw;
+        width: 40vh;
+    }
+
+
+    .all-tastes {
+        padding-left: 28px;
+        padding-top: 59px;
+    }
+
+
+    /* |||||||||||||||||||||||\\ */
+    .Chocotale-and-Cocoa h1 {
+        font-size: 117.95px;
+
+    }
+
+    button.sighn-up {
+        padding: 14px 96px;
+        font-size: 31.42px;
+
+    }
+
+    .Chocotale-and-Cocoa p {
+        width: 70vw;
+        font-size: 21.5px;
+    }
+
+    .Chocotale-and-Cocoa h2 {
+        font-size: 43.26px;
+        padding-bottom: 31px;
+    }
+
+    .stars {
+        position: relative;
+        bottom: 80vw;
+    }
+
+    .stars img {
+        width: 100%;
+    }
+
+
+    /* |||||||||||\\\\\ */
+
+
+    .logo-footer h1 {
+        font-size: 16vw;
+        padding-top: 72px;
+    }
+
+    .flex-box {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .firsmenu {
+        display: flex;
+        justify-content: space-around;
+        padding-top: 51px;
+    }
+
+
+    .Thirdmenu {
+        text-align: center;
+        padding-top: 40px;
+    }
+
+    .Thirdmenu input {
+        padding: 13px 143px 13px 20px;
+    }
+
+}
+
+
+
+@media (max-width: 650px) {
+    .toogler {
+        padding: 0px 0px 15px 100px;
+        width: 78%;
+        position: absolute;
+        top: 146px;
+    }
+    #web-logo h1 {
+        font-size: 100.39px;
+    }
+
+    .list {
+        width: 59%;
+    }
+
+    .suger h1 {
+        font-size: 27.31px;
+    }
+
+    .suger h2 {
+        font-size: 20.99px;
+    }
+
+    .suger p {
+        font-size: 19.95px;
+    }
+
+    .suger p {
+        font-size: 17.95px;
+    }
+
+    .suger .btn-1 {
+        padding: 5px 25px;
+        font-size: 12.42px;
+    }
+}
+
+
+
+@media (max-width:500px) {
+    .toogler {
+        padding: 0px 0px 15px 100px;
+        width: 78%;
+        position: absolute;
+        top: 225px;
+    }
+
+    #web-logo h1 {
+        font-size: 83.39px;
+    }
+
+    .midd-box .left {
+        padding: 70px 33px 77px 42px;
+        font-family: 'Minion Variable Concept';
+        background-color: rgb(255, 255, 255);
+        border-radius: 110px;
+        box-shadow: -44px -5px 93px -57px black;
+        width: 80%;
+        margin: 0 auto;
+    }
+
+
+    .midd-box-2 .right-3 {
+        padding: 83px 35px 0px 32px;
+        width: 100%;
+        color: #fff;
+        background-color: #3f2215;
+        border-radius: 110px;
+        box-shadow: 2px 4px 10px black;
+    }
+
+    .Quality-para {
+        width: 87%;
+        padding-top: 36px;
+        padding-bottom: 36px;
+    }
+
+
+
+    .smoothie {
+        width: 77%;
+        padding: 64px 73px 47px;
+    }
+
+    .learn h2 {
+        font-size: 25.79px;
+
+    }
+
+    .read-more {
+
+        padding: 12px 68px;
+        font-size: 22.16px;
+    }
+
+
+    .smoothie h1 {
+        font-size: 43.26px;
+    }
+
+    .smoothie h2 {
+        font-size: 26.02px;
+    }
+
+
+    .all-tastes {
+        padding-left: 28px;
+        padding-top: 59px;
+    }
+
+    /* |||||||||||||||||||||||\\ */
+    .Chocotale-and-Cocoa h1 {
+        font-size: 63.95px;
+        color: #3f2215;
+        font-family: 'Bellamye';
+        padding-bottom: 14px;
+        text-shadow: -1px -6px 0px #3f22156e;
+        font-weight: 500;
+    }
+
+    button.sighn-up {
+        padding: 14px 80px;
+        background: #3a3a3ac7;
+        color: #fff;
+        font-size: 14.42px;
+        font-family: 'Minion Variable Concept';
+        border-radius: 52px;
+        border: none;
+    }
+
+    .Chocotale-and-Cocoa p {
+        width: 80vw;
+        padding-top: 47px;
+        margin: 0 auto;
+        font-family: 'gill-sans';
+        font-size: 12.5px;
+    }
+
+    .Chocotale-and-Cocoa h2 {
+        font-size: 22.26px;
+        padding-bottom: 31px;
+    }
+
+    .stars {
+        position: relative;
+        bottom: 79vw;
+    }
+
+    .stars img {
+        width: 100%;
+    }
+
+
+
+    /* |||||||||||\\\\\ */
+
+
+    .logo-footer h1 {
+        font-size: 16vw;
+        padding-top: 72px;
+    }
+
+    .flex-box {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .firsmenu {
+        display: flex;
+        justify-content: space-around;
+        padding-top: 51px;
+    }
+
+
+    .Thirdmenu {
+        text-align: center;
+        padding-top: 40px;
+    }
+
+    .Thirdmenu input {
+        padding: 13px 143px 13px 20px;
+    }
+
+}
+
+@media (max-width: 530px) {
+    .midd-box .left {
+        padding: 70px 44px 77px 48px;
+    }
+
+    .read-more {
+
+        padding: 14px 52px;
+
+    }
+
+
+    .Chocotale-and-Cocoa h1 {
+        font-size: 78.95px;
+    }
+
+    .Chocotale-and-Cocoa h2 {
+        font-size: 27.26px;
+        padding-bottom: 31px;
+    }
+
+    button.sighn-up {
+        padding: 14px 65px;
+        font-size: 13.42px;
+    }
+
+    .Chocotale-and-Cocoa p {
+        width: 70vw;
+        font-size: 13.5px;
+    }
+}
+
+
+@media (max-width: 600px) {
+    .suger h1 {
+        font-size: 23.31px;
+    }
+
+    .suger h2 {
+        font-size: 18.99px;
+    }
+
+    .suger p {
+        font-size: 14.95px;
+    }
+
+    .suger .btn-1 {
+        padding: 5px 25px;
+        font-size: 10.42px;
+    }
+}
+
+
+
+@media (max-width: 1212px) {
+    .suger h1 {
+        padding-top: 3px;
+    }
+
+    .suger h2 {
+        padding-bottom: 14px;
+    }
+
+    .suger p {
+        padding-bottom: 12px;
+    }
+}
+
+
+@media (max-width: 400px) {
+
+    /* NAv */
+
+    .toogler .o-n-e {
+        width: 33px;
+        height: 3px;
+        margin: 10px;
+        background-color: #fff;
+    }
+
+    .toogler {
+        padding: 0px 0px 0px 72px;
+        width: 42%;
+        /* position: absolute; */
+        top: 225px;
+    }
+
+    .icons {
+        width: 87%;
+        display: inline;
+    }
+
+
+    /* ||||||||||||||||| */
+    .right {
+
+        border-radius: 82px;
+
+    }
+
+    .midd-box .left {
+
+        border-radius: 50px;
+
+    }
+
+    .midd-box .left h1 {
+        font-size: 29px;
+    }
+
+    .midd-box .left h2 {
+        font-size: 19px;
+    }
+
+    .midd-box .left p {
+        font-size: 10px;
+    }
+
+    .midd-box .left h3 {
+        font-size: 24px;
+    }
+
+    .midd-box .left ul li {
+        font-size: 15px;
+    }
+
+    #buy {
+        font-size: 13px;
+    }
+
+    #bottom {
+        font-size: 9.61px;
+        padding-top: 40px;
+    }
+
+    .midd-box-2 .right-3 {
+        padding: 83px 35px 0px 32px;
+        width: 100%;
+        color: #fff;
+        background-color: #3f2215;
+        border-radius: 36px;
+        box-shadow: 2px 4px 10px black;
+    }
+
+
+    .left-3 {
+        width: 79vw;
+        height: 71vh;
+        border-radius: 73px;
+    }
+
+    .left-3 {
+        width: 79vw;
+        height: 71vh;
+    }
+
+    .midd-box-2 .right-3 h1 {
+        font-size: 28.7px;
+    }
+
+    .midd-box-2 .right-3 h2 {
+        font-size: 13.69px;
+
+    }
+
+
+    .shakes {
+
+        font-size: 15.45px;
+
+    }
+
+
+
+
+
+    .midd-box-3 {
+        padding: 0px;
+    }
+
+
+    .boy {
+        width: 77vw;
+        height: 87vh;
+        border-radius: 80px;
+    }
+
+    .about {
+        border-radius: 50px;
+        padding: 45px 0px 79px 55px;
+    }
+
+    .learn h1 {
+        font-size: 33.99px;
+    }
+
+    .learn h2 {
+        font-size: 19.79px;
+    }
+
+    .learn p {
+        font-size: 9.9px;
+        font-family: 'Geom';
+        width: 85%;
+        padding-bottom: 26px;
+    }
+
+    .learn h6 {
+        font-family: 'Geom';
+        padding-top: 26px;
+        font-size: 7px;
+    }
+
+
+    .read-more {
+        padding: 12px 36px;
+        font-size: 19.16px;
+    }
+
+    /* .juice? */
+
+    .right-1 input {
+
+        padding: 17px 238px 17px 28px;
+
+    }
+
+    .s-for-dates {
+
+
+        padding: 7px 75px;
+        font-size: 19.42px;
+    }
+
+
+    .Thirdmenu {
+        text-align: center;
+        padding-top: 40px;
+        padding-left: 0px;
+    }
+
+}
+
+
+@media (max-width:447px) {
+    .icons {
+        width: 87%;
+        display: inline;
+    }
+
+    .boy {
+        width: 69vw;
+        height: 87vh;
+        border: none;
+        border-radius: 110px;
+        margin: 0 auto;
+    }
+
+    .left-3 {
+        width: 59vw;
+        height: 73vh;
+        background-color: #ffefe6;
+        border: none;
+        border-radius: 113px;
+        box-shadow: 2px 4px 10px black;
+        margin: 0 auto;
+    }
+}
+
+@media (max-width:412px) {
+    .left-3 {
+        width: 79vw;
+        height: 52vh;
+    }
+
+    .boy {
+        width: 69vw;
+        height: 48vh;
+    }
+
+
+
+    .Chocotale-and-Cocoa h1 {
+        font-size: 58.95px;
+    }
+
+    .stars {
+        position: relative;
+        bottom: 103vw;
+    }
+
+    .Thirdmenu {
+        padding: 0px;
+    }
+}
+
+
+@media (max-width: 380px) {
+    .about {
+        border-radius: 50px;
+        padding: 45px 0px 79px 23px;
+    }
+
+    .logo-footer h1 {
+        font-size: 13vw;
+        padding-top: 72px;
+    }
+
+    .firsmenu-1 {
+        padding: 7px 0px 8px 44px;
+    }
+    .Thirdmenu h1 {
+        padding-bottom: 25px;
+        font-size: 29px;
+        padding-top: 29px;
+    }
+
+    .Thirdmenu input {
+        padding: 13px 68px 13px 20px;
+    }
+
+    .Thirdmenu .sighn-up {
+        padding: 5px 69px;
+        background-color: #b68e76;
+        font-size: 23px;
+    }
+    .secondmenu {
+        padding-top: 52px;
+        padding-left: 17px;
+        padding-right: 43px;
+    }
+
+}
+
+
+@media (max-width: 300px) {
+
+    .toogler {
+        padding: 0px 0px 0px 37px;
+        width: 42%;
+        top: 153px;
+    }
+
+    #web-logo h1 {
+        font-size: 50.39px;
+    }
+
+
+    .learn h1 {
+        font-size: 27.99px;
+    }
+
+    .learn h2 {
+        font-size: 14.79px;
+    }
+
+    .learn p {
+        font-size: 8.9px;
+
+    }
+
+    .read-more {
+        padding: 12px 36px;
+        font-size: 11.16px;
+    }
+
+    .Quality-and-taste h5 {
+        font-size: 10.41px;
+
+    }
+
+
+    .stars {
+        position: relative;
+        bottom: 139vw;
+    }
+
+    .smoothie {
+        width: 97%;
+        padding: 64px 42px 15px;
+    }
+
+    .Chocotale-and-Cocoa h1 {
+        font-size: 47.95px;
+    }
+
+    .Chocotale-and-Cocoa h2 {
+        font-size: 19.26px;
+        padding-bottom: 31px;
+    }
+
+    button.sighn-up {
+        padding: 11px 47px;
+        font-size: 13.42px;
+    }
+
+    .midd-box .left h1 {
+        font-size: 22px;
+    }
+
+}
